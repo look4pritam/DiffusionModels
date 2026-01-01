@@ -1,6 +1,6 @@
 # Diffusion Models
 
-## Variational Autoencoders
+## Variational Auto Encoders (VAE)
 - Encoder + Decoder
 - Latent space
 - Selection from latent space
