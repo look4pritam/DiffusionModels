@@ -1,7 +1,7 @@
 # Diffusion Models
 
 ## Concept
-- Forward Diffusion
+- Forward Diffusion - Add noise
 - 
  
 ## References
