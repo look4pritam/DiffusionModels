@@ -2,9 +2,9 @@
 
 ## Concept
 - Forward Diffusion
-  - Add noise
-  - Time steps
-  - Markov chain - The future depends only on the present state, not on the past history.
+  - Add (Gaussian) noise
+  - Number of time steps
+  - Markov chain - The future depends only on the present state, and not on the past history.
 - 
  
 ## References
