@@ -27,7 +27,14 @@
     - Text prompts
     - Text embeddings
     - Condition - Image and image captions pairs
-         
+
+## Applications
+
+- Text generation
+- Code generation
+- Image generation 
+- Video generation
+ 
 ## References
 - [YouTube - Diffusion Models for AI Image Generation](https://www.youtube.com/watch?v=x2GRE-RzmD8)
 - [YouTube - Diffusion models explained in 4-difficulty levels](https://www.youtube.com/watch?v=yTAMrHVG1ew)
