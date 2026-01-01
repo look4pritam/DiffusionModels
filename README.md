@@ -6,7 +6,7 @@
 ## Variational Auto Encoders (VAE)
 - Encoder + Decoder
 - Latent space
-- Selection from latent space
+- Random selection from latent space using Gaussian distribution
 
 ## Concept
 - Forward Diffusion
