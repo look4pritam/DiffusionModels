@@ -14,6 +14,7 @@
   - UNet
   - Time step t
   - Predict noise at time step t
+  - Subtract noise from noisy image to get clear image
     
 ## References
 - [YouTube - Diffusion Models for AI Image Generation](https://www.youtube.com/watch?v=x2GRE-RzmD8)
