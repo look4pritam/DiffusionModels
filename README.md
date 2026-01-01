@@ -17,7 +17,7 @@
     - Subtract noise from noisy image to get clear image
 - Conditional Diffusion
   - Guided Diffusion
-  - Contioned on text prompts
+  - Conditioned on text prompts  
          
 ## References
 - [YouTube - Diffusion Models for AI Image Generation](https://www.youtube.com/watch?v=x2GRE-RzmD8)
