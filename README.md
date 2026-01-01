@@ -1,5 +1,8 @@
 # Diffusion Models
 
+## Simple Examples
+- Dropping a drop of a paint in a clear water
+  
 ## Variational Auto Encoders (VAE)
 - Encoder + Decoder
 - Latent space
