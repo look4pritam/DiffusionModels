@@ -21,6 +21,7 @@
   - How ?
     - Text prompts
     - Text embeddings
+    - Condition - Image and image captions pairs
          
 ## References
 - [YouTube - Diffusion Models for AI Image Generation](https://www.youtube.com/watch?v=x2GRE-RzmD8)
