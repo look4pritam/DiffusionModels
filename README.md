@@ -1,7 +1,10 @@
 # Diffusion Models
 
 ## Concept
-- Forward Diffusion - Add noise
+- Forward Diffusion
+  - Add noise
+  - Time steps
+  - Markov chain - The future depends only on the present state, not on the past history.
 - 
  
 ## References
