@@ -1,5 +1,10 @@
 # Diffusion Models
 
+## Variational Autoencoders
+- Encoder + Decoder
+- Latent space
+- Selection from latent space
+
 ## Concept
 - Forward Diffusion
   - Add (Gaussian) noise
