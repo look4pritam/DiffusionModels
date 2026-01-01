@@ -30,5 +30,6 @@
          
 ## References
 - [YouTube - Diffusion Models for AI Image Generation](https://www.youtube.com/watch?v=x2GRE-RzmD8)
+- [YouTube - Diffusion models explained in 4-difficulty levels](https://www.youtube.com/watch?v=yTAMrHVG1ew)
 - [YouTube - Diffusion Models Just Beat Large Language Models?](https://www.youtube.com/watch?v=Yu4ZWy1GjlE)
 
