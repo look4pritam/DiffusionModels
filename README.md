@@ -25,4 +25,5 @@
          
 ## References
 - [YouTube - Diffusion Models for AI Image Generation](https://www.youtube.com/watch?v=x2GRE-RzmD8)
+- [YouTube - Diffusion Models Just Beat Large Language Models?](https://www.youtube.com/watch?v=Yu4ZWy1GjlE)
 
